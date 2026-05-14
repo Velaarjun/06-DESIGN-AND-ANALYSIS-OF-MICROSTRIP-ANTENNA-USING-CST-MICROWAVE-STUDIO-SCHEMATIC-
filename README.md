@@ -15,3 +15,4 @@ RF system architecture can be implemented using RF System models available in th
 <img width="619" height="475" alt="image" src="https://github.com/user-attachments/assets/18400bc4-b166-4809-a232-3115221101a9" />
 
 **Conclusion:**
+The microstrip antenna designed and analyzed using CST Microwave Studio showed efficient radiation performance with good return loss, gain, and bandwidth characteristics suitable for wireless communication applications
